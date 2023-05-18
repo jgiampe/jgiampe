@@ -1,34 +1,28 @@
-<h1 align="center">Hola 👋, soy Julian Giampetruzzi</h1>
+<h1 align="center">Hi 👋, I am Julian Giampetruzzi</h1>
 <h3 align="center">FullStack Developer</h3>
 
-<h2 align="left">Sobre mi:</h2>
-<p align="left">Soy un Full Stack Developer con formación y experiencia como Ingeniero Electrónico. 
-Soy curioso y entusiasta por aprender siempre cosas nuevas, colaborativo y con pensamiento analítico.
-Siempre me atrajo la tecnología, y gracias a esto comencé a estudiar y me gradué de ingeniero electrónico.
-Mi carrera me brindó herramientas para encarar los problemas de una forma más analítica, y me introdujo a la programación, la cual me apasionó e incitó a seguir estudiándola. 
-Cuento con experiencia trabajando con Javascript, NodeJS, React, Redux, SQL y NoSQL entre otras tecnologías del sector, como así también con metodologías ágiles (SCRUM).
+<h2 align="left">About me:</h2>
+<p align="left">I've always been interested in technology and how it can transform the world. After graduating as an Electronic Engineer, I found my passion in programming and am now a Full Stack Developer with experience working with Javascript, NodeJS, React, Redux, SQL, and NoSQL.</p> 
+<p>I'm proud to have worked on challenging projects where I've developed analytical and creative skills to find innovative solutions.
+Moreover, I'm passionate about teamwork and collaboration. I've worked with agile methodologies like SCRUM and have led teams in complex projects.</p>
+<p>I am always eager to expand my knowledge and expertise, continually seeking new opportunities to learn and grow professionally.
 </p>
 
 
 
-- 📫 Como contactarte conmigo: **jggiampe@gmail.com**
+- 📫 You can reach me: **jggiampe@gmail.com**
 
-<h2 align="left">Conecta conmigo:</h2>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/julian-giampetruzzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julian-giampetruzzi" height="30" width="40" /></a>
 </p>
 
 
+<p></p>
 
-
-## Mi Skill Set  
-<table><tr>
-  <td valign="top" width="33%">
-
-
-
+## My Skill Set  
 ### Programming Languages  
-<div align="center">  
+<div align="left">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="75" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="75" /></a>  
@@ -36,8 +30,12 @@ Cuento con experiencia trabajando con Javascript, NodeJS, React, Redux, SQL y No
 
 
 
+
+
+
+
   ### Frontend  
-  <div align="center">  
+  <div align="left">  
   <a href="https://reactjs.org/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" />
   </a>  
@@ -64,21 +62,17 @@ Cuento con experiencia trabajando con Javascript, NodeJS, React, Redux, SQL y No
   </div>
 
 
-  </td>
-  
-  <td valign="top" width="33%">
-
 
 
 ### Backend  
-<div align="center">  
+<div align="left">  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="75" /></a>  
 </div>
     
     
 ### DataBase  
-<div align="center">  
+<div align="left">  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="75" /></a>  
   
    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
@@ -91,14 +85,14 @@ Cuento con experiencia trabajando con Javascript, NodeJS, React, Redux, SQL y No
 </div>
   
   ### Backend as a Service  
-<div align="center">  
+<div align="left">  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="75" /></a>
 </div>
 
-</td><td valign="top" width="33%">
+
 
   ### Testing  
-<div align="center">  
+<div align="left">  
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" height="75"/> 
   </a> 
@@ -111,14 +105,14 @@ Cuento con experiencia trabajando con Javascript, NodeJS, React, Redux, SQL y No
 </div>
   
   ### Software  
-<div align="center">  
+<div align="left">  
 <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="75"/> 
   </a> 
 </div>
 
  ### Other  
-<div align="center">  
+<div align="left">  
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="75"/> 
   </a>
@@ -128,4 +122,4 @@ Cuento con experiencia trabajando con Javascript, NodeJS, React, Redux, SQL y No
 </div>
   
 
-</td></tr></table>  
+ 
